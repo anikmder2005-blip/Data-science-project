@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -62,4 +63,16 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
