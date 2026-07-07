@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
