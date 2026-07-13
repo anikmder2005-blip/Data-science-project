@@ -92,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1523-count-odd-numbers-in-an-interval-range) |
