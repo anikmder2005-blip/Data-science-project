@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -20,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -35,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1291-sequential-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
