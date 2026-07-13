@@ -91,6 +91,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
