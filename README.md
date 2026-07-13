@@ -135,4 +135,8 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
