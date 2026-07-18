@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
@@ -173,6 +174,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0509-fibonacci-number) |
 ## Memoization
