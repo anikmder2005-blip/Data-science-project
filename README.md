@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,6 +126,7 @@
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -214,6 +217,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -227,4 +231,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
