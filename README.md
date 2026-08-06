@@ -149,6 +149,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3536-maximum-product-of-two-digits) |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
 |  |
