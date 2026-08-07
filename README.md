@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0125-valid-palindrome) |
 | [0905-sort-array-by-parity](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0905-sort-array-by-parity) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3867-sum-of-gcd-of-formed-pairs) |
