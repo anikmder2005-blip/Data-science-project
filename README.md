@@ -124,6 +124,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -180,6 +181,7 @@
 | [0009-palindrome-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
@@ -374,4 +376,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
