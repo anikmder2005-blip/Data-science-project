@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0088-merge-sorted-array) |
@@ -126,6 +127,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0875-koko-eating-bananas) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3286-find-a-safe-walk-through-a-grid) |
