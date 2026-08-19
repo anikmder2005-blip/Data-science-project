@@ -284,6 +284,7 @@
 | [0125-valid-palindrome](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0905-sort-array-by-parity) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -389,4 +390,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
