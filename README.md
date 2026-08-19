@@ -315,6 +315,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0509-fibonacci-number) |
@@ -396,6 +397,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
