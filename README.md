@@ -187,6 +187,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
@@ -317,6 +318,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0231-power-of-two) |
@@ -398,6 +400,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0083-remove-duplicates-from-sorted-list) |
