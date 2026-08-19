@@ -26,6 +26,7 @@
 | [0905-sort-array-by-parity](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0905-sort-array-by-parity) |
 | [1140-stone-game-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0435-non-overlapping-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -107,6 +109,7 @@
 | [0001-two-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -217,6 +220,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0231-power-of-two) |
+| [1386-cinema-seat-allocation](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
