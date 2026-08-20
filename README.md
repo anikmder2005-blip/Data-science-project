@@ -93,6 +93,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -236,6 +237,7 @@
 | [0054-spiral-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -296,6 +298,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0905-sort-array-by-parity) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -428,6 +431,7 @@
 | [0020-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
