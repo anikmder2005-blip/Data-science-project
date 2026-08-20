@@ -86,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0125-valid-palindrome) |
@@ -424,6 +425,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -436,4 +438,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
