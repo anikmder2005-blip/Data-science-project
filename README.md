@@ -41,6 +41,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -234,6 +235,7 @@
 | [0054-spiral-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
