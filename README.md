@@ -250,10 +250,12 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0144-binary-tree-preorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3310-remove-methods-from-project) |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -437,6 +440,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0503-next-greater-element-ii) |
