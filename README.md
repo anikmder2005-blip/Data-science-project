@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0503-next-greater-element-ii) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
@@ -163,6 +165,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
@@ -180,6 +183,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -270,6 +274,7 @@
 | [0110-balanced-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
