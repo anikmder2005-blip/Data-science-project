@@ -1,17 +1,26 @@
 class Solution:
     def sumGame(self, num: str) -> bool:
+       
+        sumL = qL = 0
+        sumR = qR = 0
         n = len(num)
 
-        def get(s: str)-> (int, int):
-            nn = qq = 0
-            for ch in s:
-                if ch == "?":
-                    qq += 1
+        for i in range(n):
+            if i < n // 2:
+                if num[i] == '?':
+                    qL += 1
                 else:
-                    nn += int(ch)
-            return nn, qq
+                    sumL += int(num[i])
+            else:
+                if num[i] == '?':
+                    qR += 1
+                else:
+                    sumR += int(num[i])
 
-        n0, q0 = get(num[: n // 2])
-        n1, q1 = get(num[n // 2 :])
+        if (qL + qR) % 2:
+            return True
 
-        return (q0 + q1) % 2 == 1 or n0 - n1 != (q1 - q0) * 9 // 2
+        ds = sumL - sumR
+        dq = qR - qL
+
+        return ds != (dq // 2) * 9
