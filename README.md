@@ -160,6 +160,7 @@
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
@@ -277,6 +278,7 @@
 | [0110-balanced-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0145-binary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
@@ -301,6 +304,7 @@
 | [0110-balanced-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0145-binary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
