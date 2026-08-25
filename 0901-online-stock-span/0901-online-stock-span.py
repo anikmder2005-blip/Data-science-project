@@ -1,22 +1,11 @@
+# Python
 class StockSpanner:
-
     def __init__(self):
-        self.st=[]
-        self.lst=[]
-        
+        self.stack = []  # Each element: [price, span]
 
     def next(self, price: int) -> int:
-        if self.st==[]:
-            self.st.append(price)
-            self.lst.append(1)
-            return 1
-        ct=1
-        while self.st:
-            if self.st[-1]<=price:
-                ct+=self.lst.pop()
-                self.st.pop()
-            else:
-                break
-        self.st.append(price)
-        self.lst.append(ct)
-        return ct
+        span = 1
+        while self.stack and self.stack[-1][0] <= price:
+            span += self.stack.pop()[1]
+        self.stack.append([price, span])
+        return span
