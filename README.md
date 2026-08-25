@@ -497,11 +497,13 @@
 | [0232-implement-queue-using-stacks](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -515,6 +517,7 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0901-online-stock-span) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -523,4 +526,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0207-course-schedule) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
