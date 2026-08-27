@@ -71,6 +71,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -132,6 +134,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -377,6 +380,7 @@
 | [1291-sequential-digits](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -385,6 +389,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
