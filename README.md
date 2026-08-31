@@ -506,6 +506,7 @@
 | [0206-reverse-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
