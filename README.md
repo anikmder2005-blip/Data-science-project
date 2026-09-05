@@ -115,6 +115,7 @@
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -364,6 +365,7 @@
 | [0509-fibonacci-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1563-stone-game-v) |
@@ -602,4 +604,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
