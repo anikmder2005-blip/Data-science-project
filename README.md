@@ -106,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
@@ -352,6 +353,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -392,6 +394,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0061-rotate-list) |
@@ -608,4 +611,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
