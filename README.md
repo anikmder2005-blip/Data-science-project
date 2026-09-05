@@ -19,6 +19,7 @@
 | [0198-house-robber](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0435-non-overlapping-intervals) |
@@ -168,6 +169,7 @@
 | [0035-search-insert-position](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0875-koko-eating-bananas) |
@@ -361,6 +363,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0435-non-overlapping-intervals) |
@@ -617,4 +620,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0005-longest-palindromic-substring) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
