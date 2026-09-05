@@ -245,6 +245,7 @@
 | [0050-powx-n](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
@@ -346,6 +347,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0435-non-overlapping-intervals) |
@@ -435,6 +437,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
