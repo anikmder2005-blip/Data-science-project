@@ -19,6 +19,7 @@
 | [0198-house-robber](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
@@ -183,6 +184,7 @@
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0743-network-delay-time) |
@@ -355,6 +357,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
@@ -589,9 +592,14 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
