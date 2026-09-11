@@ -1,21 +1,11 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        n = len(digits)
-        vis = [False] * 1000
-        ans = 0
+        f = Counter(digits)
 
-        for i in range(n):
-            if digits[i] == 0:
-                continue
-            for j in range(n):
-                if j == i:
-                    continue
-                for k in range(n):
-                    if k == i or k == j or digits[k] % 2 != 0:
-                        continue
-                    x = digits[i] * 100 + digits[j] * 10 + digits[k]
-                    if not vis[x]:
-                       vis[x] = True
-                       ans += 1
+        res = 0
+        for n in range(100, 1000, 2):
+            i, r = divmod(n, 100)
+            j, k = divmod(r, 10)
+            res += f[i] > 0 and f[j] > (i == j) and f[k] > (i == k) + (j == k)
 
-        return ans
+        return res
