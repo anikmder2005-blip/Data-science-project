@@ -272,6 +272,7 @@
 | [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -646,4 +647,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0300-longest-increasing-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
