@@ -80,6 +80,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2029-stone-game-ix) |
@@ -101,6 +102,7 @@
 | [0905-sort-array-by-parity](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -129,6 +131,7 @@
 | [1108-defanging-an-ip-address](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -155,6 +158,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
