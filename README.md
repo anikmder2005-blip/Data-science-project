@@ -286,6 +286,7 @@
 | [0877-stone-game](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -668,4 +669,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
