@@ -1,12 +1,9 @@
 class Solution:
     def maxDepthAfterSplit(self, seq: str) -> list[int]:
-        ans = []
-        d = 0
-        for c in seq:
-            if c == "(":
-                d += 1
-                ans.append(d % 2)
-            if c == ")":
-                ans.append(d % 2)
-                d -= 1
+        ans = list()
+        for i, ch in enumerate(seq):
+            if ch == '(':
+                ans.append(i % 2)
+            else:
+                ans.append(1 - i % 2)
         return ans
