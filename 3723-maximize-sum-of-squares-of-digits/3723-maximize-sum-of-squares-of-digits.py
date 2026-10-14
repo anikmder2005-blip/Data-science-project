@@ -3,8 +3,4 @@ class Solution:
         if sum > 9 * num:
             return ""
         q, r = divmod(sum, 9)
-        ans ="9" * q
-        if r > 0:
-            ans += str(r)
-        ans += "0" * (num - len(ans))
-        return ans
+        return '9' * q + (str(r) if r else '') + '0' * (num - q - (1 if r else 0))
