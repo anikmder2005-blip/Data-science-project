@@ -42,6 +42,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0547-number-of-provinces) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -343,6 +345,7 @@
 | [1510-stone-game-iv](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1927-sum-game) |
@@ -405,6 +408,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -439,6 +443,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
@@ -470,6 +475,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -563,13 +569,16 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0053-maximum-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -732,6 +741,7 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -767,4 +777,8 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
