@@ -34,6 +34,7 @@
 | [0877-stone-game](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0905-sort-array-by-parity) |
 | [1140-stone-game-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1406-stone-game-iii) |
@@ -272,6 +273,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0743-network-delay-time) |
 | [1096-brace-expansion-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -283,6 +285,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
@@ -306,6 +309,7 @@
 | [0074-search-a-2d-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -437,6 +441,7 @@
 | [0547-number-of-provinces](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0743-network-delay-time) |
+| [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
