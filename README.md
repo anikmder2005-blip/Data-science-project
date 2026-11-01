@@ -24,6 +24,7 @@
 | [0322-coin-change](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0628-maximum-product-of-three-numbers) |
@@ -360,6 +361,7 @@
 | [0070-climbing-stairs](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0628-maximum-product-of-three-numbers) |
