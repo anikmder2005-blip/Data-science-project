@@ -38,6 +38,7 @@
 | [1140-stone-game-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -137,6 +138,7 @@
 | [0905-sort-array-by-parity](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0905-sort-array-by-parity) |
 | [1096-brace-expansion-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -262,6 +264,7 @@
 | [0704-binary-search](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -576,6 +579,7 @@
 | [0844-backspace-string-compare](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3534-path-existence-queries-in-a-graph-ii) |
