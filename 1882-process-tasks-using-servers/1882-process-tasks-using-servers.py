@@ -1,20 +1,24 @@
 class Solution:
     def assignTasks(self, servers: list[int], tasks: list[int]) -> list[int]:
-        available = [[w, s] for s, w in enumerate(servers)]
-        heapify(available)
-        using = []
-        n = len(tasks)
+        busy = list()
+        idle = [(w, i) for i, w in enumerate(servers)]
+        heapq.heapify(idle)
+        ts = 0
 
-        res = []
-        for i in range(n):
-            while using and using[0][0] <= i:
-                et, w, s = heappop(using)
-                heappush(available, [w, s])
-            if available:
-                w, s = heappop(available)
-                heappush(using, [i + tasks[i], w, s])
-            else:
-                et, w, s =heappop(using)
-                heappush(using, [et + tasks[i], w, s])
-            res.append(s)
-        return res
+        def release():
+            while busy and busy[0][0] <= ts:
+                _, idx = heapq.heappop(busy)
+                heapq.heappush(idle, (servers[idx], idx))
+
+        ans = list()
+        for i, task in enumerate(tasks):
+            ts = max(ts, i)
+            release()
+            if not idle:
+                ts = busy[0][0]
+                release()
+            idx = heapq.heappop(idle)[1]
+            ans.append(idx)
+            heapq.heappush(busy, (ts + task, idx))
+
+        return ans
