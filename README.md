@@ -37,6 +37,7 @@
 | [0905-sort-array-by-parity](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0905-sort-array-by-parity) |
 | [1140-stone-game-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1386-cinema-seat-allocation) |
@@ -298,6 +299,7 @@
 | [0743-network-delay-time](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0743-network-delay-time) |
 | [1096-brace-expansion-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -311,6 +313,7 @@
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
@@ -339,6 +342,7 @@
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -483,6 +487,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2685-count-the-number-of-complete-components) |
@@ -605,6 +610,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2029-stone-game-ix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
