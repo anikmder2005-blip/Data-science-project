@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0064-minimum-path-sum) |
@@ -136,6 +137,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0217-contains-duplicate) |
@@ -173,6 +175,7 @@
 | [0020-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0115-distinct-subsequences) |
@@ -224,6 +227,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0160-intersection-of-two-linked-lists) |
