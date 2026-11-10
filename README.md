@@ -139,6 +139,7 @@
 | [0075-sort-colors](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0628-maximum-product-of-three-numbers) |
@@ -177,6 +178,7 @@
 | [0115-distinct-subsequences](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0412-fizz-buzz) |
@@ -226,6 +228,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
