@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0035-search-insert-position) |
@@ -140,6 +141,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0088-merge-sorted-array) |
@@ -596,6 +598,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0061-rotate-list) |
