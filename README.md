@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0054-spiral-matrix) |
@@ -539,6 +540,7 @@
 | [0005-longest-palindromic-substring](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0070-climbing-stairs) |
@@ -604,6 +606,7 @@
 | [0015-3sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -779,6 +782,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0145-binary-tree-postorder-traversal) |
@@ -825,6 +829,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0901-online-stock-span) |
 ## Dijkstra's Algorithm
