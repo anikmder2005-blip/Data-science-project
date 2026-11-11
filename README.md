@@ -22,6 +22,7 @@
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0416-partition-equal-subset-sum) |
@@ -580,6 +581,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
