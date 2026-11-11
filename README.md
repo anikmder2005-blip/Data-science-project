@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0213-house-robber-ii) |
@@ -280,6 +281,7 @@
 | [0035-search-insert-position](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -605,6 +607,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0876-middle-of-the-linked-list) |
