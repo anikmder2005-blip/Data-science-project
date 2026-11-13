@@ -85,6 +85,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -279,6 +280,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -736,6 +738,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
@@ -801,6 +804,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Design
 |  |
 | ------- |
@@ -812,6 +816,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0232-implement-queue-using-stacks) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -833,6 +838,7 @@
 | [0042-trapping-rain-water](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/anikmder2005-blip/Data-science-project/tree/master/0901-online-stock-span) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -890,4 +896,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anikmder2005-blip/Data-science-project/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anikmder2005-blip/Data-science-project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
