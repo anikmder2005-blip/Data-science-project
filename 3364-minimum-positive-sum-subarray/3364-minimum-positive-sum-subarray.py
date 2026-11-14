@@ -1,16 +1,13 @@
 class Solution:
     def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
-        n = len(nums)
-        res = inf
-
-        for i in range(n):
-            curr = 0
-            count = 0
-            for j in range(i, n):
-                count += 1
-                curr += nums[j]
-                if count < l: continue
-                if count > r: break
-                if curr > 0: res = min(res, curr)
-        
-        return res if res != inf else -1
+        n= len(nums)
+        res = float('inf')
+        for i in range(n-l+1):
+            total = sum(nums[i:i+l])
+            if total>0:
+                res = min(total,res)
+            for j in range(i+l,min(i+r,n)):
+                total+=nums[j]
+                if total>0:
+                    res = min(total,res)
+        return -1 if res==float('inf') else res
